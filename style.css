@@ -13,6 +13,7 @@ body {
     justify-content: center;
     display: flex;
     align-items: center;
+    padding: 0;
 }
 
 #wrapper{
@@ -20,6 +21,7 @@ body {
     justify-content: center;
     display: inline-block;
     align-items: center;
+    padding: 0;
 }
 
 .logo{
@@ -32,7 +34,8 @@ font-weight: 500;
  color: rgb(255, 172, 63);
  font-size: 7rem;
  text-transform: capitalize;
- margin: 20px;
+ margin-bottom: 20px;
+ padding: 0;
 }
 
 
@@ -144,7 +147,7 @@ button:active{
     display: flex;
     /* justify-content: space-between; */
     justify-content:center;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 
